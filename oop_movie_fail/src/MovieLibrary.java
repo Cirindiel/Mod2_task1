@@ -15,5 +15,6 @@ public class MovieLibrary {
         System.out.println("Reżyser: " + movie.director);
         System.out.println("Ocena: " + movie.rating + '/' + movie.maxRating);
         System.out.println("Czy otrzymał Oskara: " + movie.oscars);
+        //Komentarz dodany aby byla zmiana w kodzie.
     }
 }
